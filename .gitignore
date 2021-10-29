@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+.idea/
+obj/
+bin/
+packages/
+*.suo
+*.tmp
+*.bak
+thumb.db
+Thumb.db
+.DS_Store
+*.VC.db
